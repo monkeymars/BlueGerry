@@ -37,12 +37,12 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#000000",
-        "title_bar.background": "#003366",
+        "status_bar.background": "#003366",
+        "title_bar.background": "#000000",
         "toolbar.background": "#000000",
         "tab_bar.background": "#000000",
         "tab.inactive_background": "#000000",
-        "tab.active_background": "#03284e",
+        "tab.active_background": "#1B1F3B",
         "search.match_background": null,
         "panel.background": "#010b13",
         "panel.focused_border": "#2a2a2a",
@@ -255,6 +255,264 @@
           },
           "variable.special": {
             "color": "#A6E22E",
+            "font_style": null,
+            "font_weight": null
+          }
+        }
+      }
+    },
+    {
+      "name": "BlueGery Light - Spesial Buat Rahmi ❤",
+      "appearance": "light",
+      "style": {
+        "border": "#e0e0e0",
+        "border.variant": "#00000030",
+        "border.focused": "#59b6ce75",
+        "border.selected": "#4e9db175",
+        "border.transparent": "#43bad875",
+        "border.disabled": "#43bad875",
+        "elevated_surface.background": "#ffffff",
+        "surface.background": "#f5f5f5",
+        "background": "#ffffff",
+        "element.background": "#ffffff",
+        "element.hover": "#43bad830",
+        "element.active": null,
+        "element.selected": "#43bad830",
+        "element.disabled": null,
+        "drop_target.background": null,
+        "ghost_element.background": null,
+        "ghost_element.hover": "#43bad830",
+        "ghost_element.active": null,
+        "ghost_element.selected": "#43bad830",
+        "ghost_element.disabled": null,
+        "text": "#000000",
+        "text.muted": "#404040",
+        "text.placeholder": null,
+        "text.disabled": null,
+        "text.accent": null,
+        "icon": null,
+        "icon.muted": null,
+        "icon.disabled": null,
+        "icon.placeholder": null,
+        "icon.accent": null,
+        "status_bar.background": "#ffffff",
+        "title_bar.background": "#e6f3ff",
+        "toolbar.background": "#ffffff",
+        "tab_bar.background": "#ffffff",
+        "tab.inactive_background": "#ffffff",
+        "tab.active_background": "#f0f8ff",
+        "search.match_background": null,
+        "panel.background": "#f8fbff",
+        "panel.focused_border": "#d0d0d0",
+        "pane.focused_border": "#e0e0e0",
+        "scrollbar_thumb.background": null,
+        "scrollbar.thumb.hover_background": null,
+        "scrollbar.thumb.border": null,
+        "scrollbar.track.background": "#ffffff",
+        "scrollbar.track.border": null,
+        "editor.foreground": "#000000",
+        "editor.background": "#ffffff",
+        "editor.gutter.background": "#ffffff",
+        "editor.subheader.background": null,
+        "editor.active_line.background": null,
+        "editor.highlighted_line.background": null,
+        "editor.line_number": "#a0a0a0",
+        "editor.active_line_number": "#0BA6DF",
+        "editor.invisible": null,
+        "editor.wrap_guide": "#43bad830",
+        "editor.active_wrap_guide": "#43bad860",
+        "editor.document_highlight.read_background": null,
+        "editor.document_highlight.write_background": null,
+        "terminal.background": null,
+        "terminal.foreground": null,
+        "terminal.bright_foreground": null,
+        "terminal.dim_foreground": null,
+        "terminal.ansi.black": "#404040",
+        "terminal.ansi.bright_black": "#404040",
+        "terminal.ansi.dim_black": null,
+        "terminal.ansi.red": "#d01040",
+        "terminal.ansi.bright_red": "#d01040",
+        "terminal.ansi.dim_red": null,
+        "terminal.ansi.green": "#60a000",
+        "terminal.ansi.bright_green": "#60a000",
+        "terminal.ansi.dim_green": null,
+        "terminal.ansi.yellow": "#b8a000",
+        "terminal.ansi.bright_yellow": "#b8a000",
+        "terminal.ansi.dim_yellow": null,
+        "terminal.ansi.blue": "#0080c0",
+        "terminal.ansi.bright_blue": "#0080c0",
+        "terminal.ansi.dim_blue": null,
+        "terminal.ansi.magenta": "#c04000",
+        "terminal.ansi.bright_magenta": "#c04000",
+        "terminal.ansi.dim_magenta": null,
+        "terminal.ansi.cyan": "#6040c0",
+        "terminal.ansi.bright_cyan": "#6040c0",
+        "terminal.ansi.dim_cyan": null,
+        "terminal.ansi.white": "#404040",
+        "terminal.ansi.bright_white": "#404040",
+        "terminal.ansi.dim_white": null,
+        "link_text.hover": null,
+        "conflict": null,
+        "conflict.background": null,
+        "conflict.border": null,
+        "created": null,
+        "created.background": null,
+        "created.border": null,
+        "deleted": null,
+        "deleted.background": null,
+        "deleted.border": null,
+        "error": null,
+        "error.background": null,
+        "error.border": null,
+        "hidden": "#808080",
+        "hidden.background": null,
+        "hidden.border": null,
+        "hint": "#60606080",
+        "hint.background": null,
+        "hint.border": null,
+        "ignored": null,
+        "ignored.background": null,
+        "ignored.border": null,
+        "info": null,
+        "info.background": null,
+        "info.border": null,
+        "modified": null,
+        "modified.background": null,
+        "modified.border": null,
+        "predictive": "#e06800",
+        "predictive.background": null,
+        "predictive.border": null,
+        "renamed": null,
+        "renamed.background": null,
+        "renamed.border": null,
+        "success": null,
+        "success.background": null,
+        "success.border": null,
+        "unreachable": null,
+        "unreachable.background": null,
+        "unreachable.border": null,
+        "warning": null,
+        "warning.background": null,
+        "warning.border": null,
+        "players": [],
+        "syntax": {
+          "attribute": {
+            "color": "#0080c0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "boolean": {
+            "color": "#6040c0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment": {
+            "color": "#e06800",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.doc": {
+            "color": "#e06800",
+            "font_style": null,
+            "font_weight": null
+          },
+          "constant": {
+            "color": "#6040c0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "constructor": {
+            "color": "#c01040",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "function": {
+            "color": "#000000",
+            "font_style": "normal",
+            "font_weight": 600
+          },
+          "keyword": {
+            "color": "#c01040",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "number": {
+            "color": "#6040c0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation": {
+            "color": "#000000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.bracket": {
+            "color": "#000000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.delimiter": {
+            "color": "#000000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.list_marker": {
+            "color": "#000000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.special": {
+            "color": "#000000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string": {
+            "color": "#608000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.escape": {
+            "color": "#6040c0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regex": {
+            "color": "#608000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special": {
+            "color": "#608000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special.symbol": {
+            "color": "#608000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag": {
+            "color": "#c01040",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "text.literal": {
+            "color": "#608000",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type": {
+            "color": "#0080c0",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "variable": {
+            "color": "#404000",
+            "font_style": "italic",
+            "font_weight": 500
+          },
+          "variable.special": {
+            "color": "#404000",
             "font_style": null,
             "font_weight": null
           }
